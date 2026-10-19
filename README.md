@@ -2,7 +2,7 @@
 
 A dungeon-crawling game inspired by Minesweeper, where every cell hides a potential threat, treasure, or deadly trap.
 
-Explore dangerous dungeons, uncover monsters, manage your health, collect items, and use enemy attack values to survive. Every decision matters — one wrong move could be your last.
+Explore dangerous dungeons, uncover monsters, manage your health, collect items, and use enemies to survive. Every decision matters — one wrong move could be your last.
 
 ## 🎮 Play the Game
 
