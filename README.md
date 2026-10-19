@@ -1,6 +1,6 @@
 # Dungeon Sweeper
 
-A dungeon-crawling game inspired by Minesweeper, where every cell hides a potential threat, treasure, or deadly trap.
+A dungeon-crawling game inspired by [DragonSweeper](https://danielben.itch.io/dragonsweeper) by Daniel Benmergui, where every cell hides a potential threat, treasure, or deadly trap.
 
 Explore dangerous dungeons, uncover monsters, manage your health, collect items, and use enemies to survive. Every decision matters — one wrong move could be your last.
 
