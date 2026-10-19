@@ -6,7 +6,7 @@ Explore dangerous dungeons, uncover monsters, manage your health, collect items,
 
 ## 🎮 Play the Game
 
-**[▶ Play Dungeon Sweeper](YOUR_WEBGL_LINK_HERE)**
+**[▶ Play Dungeon Sweeper](https://nadimsaba.github.io/DungeonSweeperWebGL/)**
 
 *The game runs in your browser using Unity WebGL. No installation required.*
 
