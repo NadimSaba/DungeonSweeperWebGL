@@ -15,6 +15,7 @@ Explore dangerous dungeons, uncover monsters, manage your health, collect items,
 ## 🕹️ How to Play
 
 - **Left-click:** Reveal or interact with a cell.
+- **Long Left-click:** Mark a cell to help keep track of uncertain locations (for mobile).
 - **Right-click:** Mark a cell to help keep track of uncertain locations.
 - **Use items:** Survive dangerous encounters and gain an advantage.
 - **Read the numbers:** Use adjacent monster attack values to evaluate the danger around you.
