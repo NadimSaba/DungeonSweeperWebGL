@@ -30,6 +30,16 @@ Explore dangerous dungeons, uncover monsters, manage your health, collect items,
 - Pixel-art visuals and animations.
 - A grimoire to discover and learn about enemies and items.
 
+## Version History
+
+### v0.4 (Current)
+- Added **Adventure Mode** with multi-floor progression.
+- Added special **enemy spawning patterns**.
+- Improved the **Grimoire** and enemy/item discoveries.
+
+### v0.3
+- Initial demo release.
+
 ## 🛠️ Built With
 
 - **Unity** — Game engine.
